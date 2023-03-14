@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity(), CoroutineScope by MainScope(),
 
     private lateinit var binding: ActivityMainBinding
     private var heartRateCount: Int=0
-
+    //dddadad
     @SuppressLint("SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
