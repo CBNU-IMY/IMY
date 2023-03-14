@@ -25,6 +25,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../wear/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ae359fa5a3abdc88cbbe97a1ea88c6ba/transformed/jetified-viewbinding-7.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/172364cd4275a6c172872952b6f3337d/transformed/jetified-wearable-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e340706431c61c4caaac58ed148efcb0/transformed/jetified-fragment-ktx-1.5.3-api.jar</arg>
@@ -156,6 +157,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../wear/build/generated/aidl_source_output_dir/debug/out" />
     <content url="file://$MODULE_DIR$/../../../wear/build/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../wear/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../wear/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
     </content>
     <content url="file://$MODULE_DIR$/../../../wear/build/generated/renderscript_source_output_dir/debug/out" />

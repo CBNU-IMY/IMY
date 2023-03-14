@@ -7,7 +7,7 @@ android {
     compileSdkVersion 33
     buildToolsVersion "33.0.0"
     defaultConfig {
-        applicationId "com.bharathvishal.messagecommunicationusingwearabledatalayer"
+        applicationId "com.bharathvishal.cbnu_imy"
         minSdkVersion 23
         targetSdkVersion 33
         versionCode 75
@@ -40,7 +40,7 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
-    namespace 'com.bharathvishal.messagecommunicationusingwearabledatalayer'
+    namespace 'com.bharathvishal.cbnu_imy'
 }
 
 dependencies {
