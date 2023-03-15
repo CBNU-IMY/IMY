@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         vectorDrawables.useSupportLibrary = true
-        applicationId "com.bharathvishal.messagecommunicationusingwearabledatalayer"
+        applicationId "com.cbnu_voice.cbnu_imy"
         minSdkVersion 30
         targetSdkVersion 33
         versionCode 75
@@ -43,7 +43,7 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
-    namespace 'com.bharathvishal.messagecommunicationusingwearabledatalayer'
+    namespace 'com.cbnu_voice.cbnu_imy'
 }
 
 dependencies {
