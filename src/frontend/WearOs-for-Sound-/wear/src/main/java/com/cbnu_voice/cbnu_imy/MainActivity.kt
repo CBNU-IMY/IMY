@@ -21,7 +21,7 @@ import java.nio.charset.StandardCharsets
 
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.ExperimentalCoroutinesApi
-
+//
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity(), AmbientModeSupport.AmbientCallbackProvider,
     DataClient.OnDataChangedListener,
